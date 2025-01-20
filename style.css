@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+input[type="range"] {
+    width: 300px;
+    margin: 20px;
+}
+
+progress {
+    width: 300px;
+    height: 20px;
+    margin: 10px;
+    background-color: #ccc;
+}
+
+progress::-webkit-progress-bar {
+    background-color: #eee;
+}
+
+progress::-webkit-progress-value {
+    background-color: #76c7c0;
+}
