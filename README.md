@@ -1,3 +1,3 @@
-web based voice.
+web based voice changer.
 
-you need vscode live server plugin and virtual cable installed to run it in other applications.
+to run it you need vscode live server plugin and virtual cable installed to run it in other applications.
