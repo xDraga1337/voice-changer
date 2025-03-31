@@ -9,5 +9,5 @@ The app allows users to modify live microphone input with effects like pitch shi
 - Simple start/stop functionality
 
 
-To run it in other applications such as discord, video games VOIP chat etc.. you need to setup a local live server and [virtual cable](https://vb-audio.com/Cable/) installed.
+To run it in other applications such as discord or other kind of applications that has VOIP feature etc.. you need to setup a local live server and [virtual cable](https://vb-audio.com/Cable/) installed.
 Tone.js audio processing requires a browser with JavaScript support.
